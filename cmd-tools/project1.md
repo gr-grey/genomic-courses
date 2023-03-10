@@ -1,6 +1,6 @@
 ## Project 1: unix basic
 
-Files needed for the project are [here](https://github.com/gr-grey/genomic-courses/blob/46af89aa31b5e30a75b834fcc6cf81c8a153f98c/cmd-tools/files/project1/gencommand_proj1_data.tar.gz).
+Files needed for the project are [here](https://github.com/gr-grey/genomic-courses/blob/46af89aa31b5e30a75b834fcc6cf81c8a153f98c/cmd-tools/files/project1/gencommand_proj1_data.tar.gz)
 for download and extraction. 
 
 ```bash
